@@ -83,6 +83,7 @@ img {
     letter-spacing: 0px;
     line-height: 39px;
     margin-bottom: 60px;
+    margin-right: 1202px;
 }
 .dots {
     width: 10px;
@@ -94,6 +95,7 @@ img {
 .twin {
     opacity: 30%;
 }
-.service, .dots {
+.main-service, .dots {
     display: inline-block;
+    align-items: center;
 }
